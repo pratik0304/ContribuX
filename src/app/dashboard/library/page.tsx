@@ -530,7 +530,7 @@ export default function LibraryPage() {
                         : "bg-white/[0.03] border-white/10 text-gray-400 hover:bg-white/5"
                     }`}
                   >
-                    <div className="font-semibold text-sm mb-1 text-white">Patrons Only</div>
+                    <div className="font-semibold text-sm mb-1 text-white">Supporters Only</div>
                     <div className="text-[10px] text-gray-400 leading-tight">Only selected tiers.</div>
                   </button>
                 </div>

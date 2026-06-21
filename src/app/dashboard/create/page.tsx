@@ -381,7 +381,7 @@ export default function CreatePostPage() {
                 <div className="w-full">
                   <div className="flex items-center gap-2 text-white font-medium mb-1">
                     <Lock size={16} className="text-indigo-400" />
-                    Patrons Only
+                    Supporters Only
                   </div>
                   <p className="text-sm text-gray-400 mb-4">Only supporters in specific tiers can see this.</p>
 
